@@ -3,10 +3,17 @@
     <channel>
         <title><![CDATA[coolsite 2]]></title>
         <description><![CDATA[coolsite 2]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coolsite-2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 31 Aug 2015 06:49:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 31 Aug 2015 06:49:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coolsite-2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.maxim.com/sites/default/files/styles/custom_crop/public/editor/2015/08/1967_Toyota_2000GT_002.jpg?itok=lKrEdnwS">]]></description>
+            <link>https://thegrid.ai/coolsite-2/64e5c9f4-8c00-46e8-af45-977dcf8b1e26/index.html</link>
+            <guid isPermaLink="false">64e5c9f4-8c00-46e8-af45-977dcf8b1e26</guid>
+            <pubDate>Mon, 31 Aug 2015 06:49:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Will This Floating Wearable Keep You From Dying In A Watery Grave?]]></title>
             <description><![CDATA[<article><h1>Will This Floating Wearable Keep You From Dying In A Watery Grave?</h1><p>The most recent survival gadget to hit the crowd-funding market is essentially a life jacket you wear on your wrist. They're calling it Kingii, and at the very least, it may be the answer to awkward life-vest tan lines.</p><img src="http://www.maxim.com/sites/default/files/styles/custom_crop/public/editor/2015/07/np070715_kingiiwristflotation_channel.jpg?itok=UdbqMHAf"></article>]]></description>
