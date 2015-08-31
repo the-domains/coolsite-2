@@ -1,6 +1,7 @@
 name: coolsite 2
 favicon: null
 layout_spectrum: 0.34892
+typography_spectrum: 0.22011
 cta:
   domain: null
   bucket: null
