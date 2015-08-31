@@ -1,7 +1,6 @@
-name: null
+name: coolsite 2
 favicon: null
 layout_spectrum: 0.8
-typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -15,8 +14,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#000000'
+    - '#da6142'
+    - '#4d73c6'
+    - '#203f80'
+    - '#f4caa4'
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
