@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[coolsite 2]]></title>
+        <description><![CDATA[coolsite 2]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 31 Aug 2015 06:49:33 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will This Floating Wearable Keep You From Dying In A Watery Grave?]]></title>
+            <description><![CDATA[<article><h1>Will This Floating Wearable Keep You From Dying In A Watery Grave?</h1><p>The most recent survival gadget to hit the crowd-funding market is essentially a life jacket you wear on your wrist. They're calling it Kingii, and at the very least, it may be the answer to awkward life-vest tan lines.</p><img src="http://www.maxim.com/sites/default/files/styles/custom_crop/public/editor/2015/07/np070715_kingiiwristflotation_channel.jpg?itok=UdbqMHAf"></article>]]></description>
+            <link>http://www.maxim.com/tech/gadgets/article/will-floating-wearable-keep-you-dying-watery-grave</link>
+            <guid isPermaLink="false">36f297f1-73e2-4bbc-9ed2-74b677e90e0c</guid>
+            <pubDate>Mon, 31 Aug 2015 06:49:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
