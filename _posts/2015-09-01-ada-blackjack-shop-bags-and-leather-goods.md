@@ -17,8 +17,8 @@ keywords:
   - spanish
   - packages
 description: 'Ada Blackjack goods are carefully crafted by hand using only the ﬁnest materials and fabrics. Each item is made with great attention to detail and special craftsmanship, essential when making goods that last. The minimal designs are characterized by simplicity, timelessness and durability.'
-datePublished: '2015-11-09T23:01:27.923Z'
-dateModified: '2015-11-09T23:01:16.176Z'
+datePublished: '2015-11-10T01:28:43.962Z'
+dateModified: '2015-11-10T01:28:32.880Z'
 author: []
 related: []
 app_links: []
